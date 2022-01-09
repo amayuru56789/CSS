@@ -1,3 +1,3 @@
 # CSS Assignments
-      *Case 1
-      ![case 1]()
+      * Case 1
+      ![case1]()
