@@ -1,7 +1,15 @@
 # CSS Assignments
 * Case 1
-<<<<<<< HEAD
-     ![case1](screen_shots/img1.png)
-=======
-    ![case1](screen shots/img1.png)
->>>>>>> 931c376 (case 3)
+    ![case1](screen_shots/img1.png)
+* Case 2
+    ![case2](screen shots/img2.png)
+* Case 3
+    ![case3](screen shots/img4.png)
+* Case 4
+    ![case4](screen shots/img3.png)
+* Case 5
+    ![case5](screen shots/lap tab phone.jpg)
+
+
+
+
